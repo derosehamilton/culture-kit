@@ -1,4 +1,4 @@
-# culture-kit
+# The Phonograph Kit
 
 This project is a prototype of a ‘kit for cultural history’ inspired by the Maker Lab projects created at the University of Victoria. The project is a reconstruction of a phonograph built using LittleBits hardware. LittleBits are easy-to-use electronic building blocks which are simply snapped together to create electrical prototypes and inventions.
 
