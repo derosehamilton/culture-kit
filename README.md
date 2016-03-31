@@ -1,3 +1,5 @@
 # culture-kit
 
-<font size="24"> This project is </font>
+<font face="franklin gothic medium">
+This project is lame.
+</font>
